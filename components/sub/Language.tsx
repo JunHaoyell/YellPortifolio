@@ -23,12 +23,7 @@ const Language = () => {
             I'm a Chinese in Myanmar
           </h1>
         </motion.div>
-        <motion.div
-        variants={slideInFromLeft(0.5)}
-        className='text-[30px] text-white font-medium mt-[10px] text-center mb-[15px]'
-        >
-           All of my Family members can speak, read, write and listen Chinese & Burmese language. 
-        </motion.div>
+        
         <motion.div
         variants={slideInFromRight(0.5)}
         className='cursive text-[40px] text-gray-200 mb-10 mt-[10px] text-center'

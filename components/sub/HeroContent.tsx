@@ -40,21 +40,21 @@ className="flex flex-row items-center justify-center px-20 mt-40 w-full z-[20]"
     variants={slideInFromLeft(0.8)}
     className="text-lg text-gray-400 my-5 max-w-[600px]"
     >
-        I&apos;m an IT Student At 
+        I&apos;m an IT Student At &nbsp;&nbsp;
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
          LithanEduclaas  
-        </span>
+        </span>&nbsp;&nbsp;
         
         learning Higher National Diploma in Computing with
-        Experience in 
+        Experience in &nbsp;&nbsp;
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
          Frontend & Backend Development , 
-        </span>
-        including 
+        </span>&nbsp;&nbsp;
+        including &nbsp;&nbsp;
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-        UI/UX designing, Project Management, MySQL Database, RESTful api
+        UI/UX designing, Project Management, MySQL Database, RESTful api&nbsp;&nbsp;
         </span>
-         and using wide range of softwre tools and techniques.
+         and using wide range of software tools and techniques.
         Check out my Porjects and skills.
 
     </motion.p>
