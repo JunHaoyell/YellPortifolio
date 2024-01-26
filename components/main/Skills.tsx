@@ -21,7 +21,7 @@ const Skills = () => {
     <Skill />
     <div className='flex flex-row justify-around flex-wrap mt-4 gap-5 items-center'>
         {Frontend_skill.map((image, index) =>(
-            <SkillDataProvider 
+            <SkillDataProvider key={`frontend-${index}`}
                 src={image.Image}
                 width={image.width}
                 height={image.height}
@@ -33,7 +33,7 @@ const Skills = () => {
 
     <div className='flex flex-row justify-around flex-wrap mt-4 gap-5 items-center'>
         {Backend_skill.map((image, index) =>(
-            <SkillDataProvider 
+            <SkillDataProvider key={`backend-${index}`}
                 src={image.Image}
                 width={image.width}
                 height={image.height}
@@ -45,7 +45,7 @@ const Skills = () => {
 
     <div className='flex flex-row justify-around flex-wrap mt-4 gap-5 items-center'>
         {skill_tools.map((image, index) =>(
-            <SkillDataProvider 
+            <SkillDataProvider key={`tools-${index}`}
                 src={image.Image}
                 width={image.width}
                 height={image.height}
@@ -82,7 +82,7 @@ const Skills = () => {
     <Language />
     <div className='flex flex-row justify-around flex-wrap mt-4 gap-5 items-center'>
         {language_skill.map((image, index) =>(
-            <SkillDataProvider 
+            <SkillDataProvider key={`language-${index}`}
                 src={image.Image}
                 width={image.width}
                 height={image.height}
