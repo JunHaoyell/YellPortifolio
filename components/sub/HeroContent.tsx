@@ -55,7 +55,7 @@ className="flex flex-row items-center justify-center px-20 mt-40 w-full z-[20]"
         UI/UX designing, Project Management, MySQL Database, RESTful api&nbsp;&nbsp;
         </span>
          and using wide range of software tools and techniques.
-        Check out my Porjects and skills.
+        Check out my Projects and skills.
 
     </motion.p>
 
