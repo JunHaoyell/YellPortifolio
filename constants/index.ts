@@ -183,7 +183,7 @@ export const language_skill = [
 
 export const projects = [
   {
-    devtype: "Frontend ",
+    devtype: "Frontend, Fully Responsive: Large, medium, small ",
     frontend: "Astro",
     title: "Sinisana Website project",
     text: "Sinisana Technologies, We enhance supply chain transperancy and efficiency, ensuring food safety and regulatory compliance for a substainable future. ",
