@@ -192,6 +192,32 @@ export const projects = [
     demolink: "https://sinisana-cpc6.vercel.app/",
   },
   {
+    devtype: "UI/UX",
+    frontend: "Figma",
+    title: "KYC Process",
+    text: "The authentication flow for verifying Malaysia's MyKad (ID card). The process included uploading front and back images of the MyKad, handling image quality issues (e.g., glare or blurriness), and performing face scans to ensure the user’s identity. ",
+    src: "/KYC-process.jpg",
+    figmaLink:
+      "https://www.figma.com/design/e1iCVATT3iHIRZJoqu9IfL/KYC---MyKad?node-id=0-1&t=saRpZdJdKjIUR4M5-1",
+  },
+  {
+    devtype: "UI/UX",
+    frontend: "Figma",
+    title: "Loan Website",
+    text: "Designing the loan application process for both consumers and loan applicants, which focuses on making the application process easy to use, particularly for older users ",
+    src: "/Loan-web.jpg",
+    figmaLink:
+      "https://www.figma.com/design/BLyhE5NQYYt8rFMnjJKFCe/Loan-Web?node-id=9-3&t=JKdRTIecGdTR39BA-1",
+  },
+  {
+    devtype: "Frontend ",
+    frontend: "React Native, Document-Scanner-Plugin",
+    title: "ID Card Border Auto Detection",
+    text: "The document-scanner-plugin for its ability to auto-detect and crop ID cards, then built a React Native app using this plugin, which successfully automated the scanning process.",
+    src: "/document-scanner.jpg",
+    link: "https://github.com/JunHaoyell/document-scanner?tab=readme-ov-file",
+  },
+  {
     devtype: "Frontend ",
     frontend: "React.js, HTML, CSS, JavaScript",
     title: "Meal On Wheel Website Frontend",
