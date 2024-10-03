@@ -93,10 +93,10 @@ export const Frontend_skill = [
   },
 
   {
-    skill_name: "Type Script",
-    Image: "/ts.png",
-    width: 80,
-    height: 80,
+    skill_name: "Astro Framework",
+    Image: "/astro-logo-light-gradient.png",
+    width: 200,
+    height: 200,
   },
   {
     skill_name: "BootStrap",
