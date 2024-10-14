@@ -181,7 +181,7 @@ export const language_skill = [
   },
 ];
 
-export const projects = [
+export const experiences = [
   {
     devtype: "Frontend, Fully Responsive: Large, medium, small ",
     frontend: "Astro",
@@ -217,6 +217,9 @@ export const projects = [
     src: "/document-scanner.jpg",
     link: "https://github.com/JunHaoyell/document-scanner?tab=readme-ov-file",
   },
+];
+
+export const projects = [
   {
     devtype: "Frontend ",
     frontend: "React.js, HTML, CSS, JavaScript",

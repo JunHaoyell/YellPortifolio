@@ -36,6 +36,12 @@ const Navbar = () => {
               Languages
             </a>
             <a
+              href="#experience"
+              className="cursor-pointer hover:text-white hover:scale-105 transition-all hover:border-[1px] hover:p-[6px] rounded-3xl"
+            >
+              Experiences
+            </a>
+            <a
               href="#projects"
               className="cursor-pointer hover:text-white hover:scale-105 transition-all hover:border-[1px] hover:p-[6px] rounded-3xl"
             >
