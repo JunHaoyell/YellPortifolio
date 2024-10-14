@@ -183,6 +183,15 @@ export const language_skill = [
 
 export const experiences = [
   {
+    devtype: "UI ",
+    frontend: "Figma",
+    title: "Redesign Sinisana Website",
+    text: "The redesign of Sinisana website, which improved the areas of showcasing their services and products. ",
+    src: "/sinisana-design.jpg",
+    figmaLink:
+      "https://www.figma.com/design/HCHwXkPiA5k3KAlsTbKUzl/SINISANA?node-id=0-1&t=PhvWooNRJ36OP1VY-1",
+  },
+  {
     devtype: "Frontend, Fully Responsive: Large, medium, small ",
     frontend: "Astro",
     title: "Sinisana Website project",
@@ -201,7 +210,7 @@ export const experiences = [
       "https://www.figma.com/design/e1iCVATT3iHIRZJoqu9IfL/KYC---MyKad?node-id=0-1&t=saRpZdJdKjIUR4M5-1",
   },
   {
-    devtype: "UI/UX",
+    devtype: "UI",
     frontend: "Figma",
     title: "Loan Website",
     text: "Designing the loan application process for both consumers and loan applicants, which focuses on making the application process easy to use, particularly for older users ",
@@ -216,6 +225,25 @@ export const experiences = [
     text: "The document-scanner-plugin for its ability to auto-detect and crop ID cards, then built a React Native app using this plugin, which successfully automated the scanning process.",
     src: "/document-scanner.jpg",
     link: "https://github.com/JunHaoyell/document-scanner?tab=readme-ov-file",
+  },
+
+  {
+    devtype: "UI",
+    frontend: "Figma",
+    title: "Design of Analysis website for a agricultural company",
+    src: "/analysis-website.jpg",
+    text: "The design covers a wide range of analytical features, including graphs, charts, and tables, to help user better understand their production data. ",
+    figmaLink:
+      "https://www.figma.com/design/3fP8dHNzmXmmto6DYOydqV/SARAF-Web?node-id=15-3&t=rCbgWNSVycFuCcbH-1",
+  },
+  {
+    devtype: "UI ",
+    frontend: "Figma",
+    title: "SARAF Mobile App",
+    src: "/mobile-app.jpg",
+    text: "The app is to manage the agricultural production process like how much fertilizer added..., we are responsible to make designs of the login, register and more...",
+    figmaLink:
+      "https://www.figma.com/design/zO8BxUg9GD8d9lCcYTDdTb/SARAF-APP?node-id=0-1&t=aPxt7m5UaXXWuoEl-1",
   },
 ];
 
