@@ -62,7 +62,7 @@ export const Socials = [
   {
     name: "linkedin",
     src: "/linkedin.png",
-    link: "https://www.linkedin.com/in/thu-yell-min-1298a0232/",
+    link: "https://www.linkedin.com/in/yell-min-thu-1298a0232/",
   },
 ];
 
