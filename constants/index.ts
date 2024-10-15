@@ -185,7 +185,7 @@ export const experiences = [
   {
     devtype: "UI ",
     frontend: "Figma",
-    title: "Redesign Sinisana Website",
+    title: "Sinisana Technologies -  May 2024 to Sep 2024",
     text: "The redesign of Sinisana website, which improved the areas of showcasing their services and products. ",
     src: "/sinisana-design.jpg",
     figmaLink:

@@ -147,6 +147,8 @@ const Experiences = () => (
       className="text-[40px] text-white font-medium mt-[10px] text-center mb-[25px]"
     >
       Experience
+      <p>In Sinisana Technologies</p>
+      <p>May 2024 to Sep 2024</p>
     </motion.div>
     {experiences.map((project, index) => (
       //@ts-ignore
