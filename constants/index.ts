@@ -59,11 +59,6 @@ export const Socials = [
     src: "/github.png",
     link: "https://github.com/JunHaoyell",
   },
-  {
-    name: "linkedin",
-    src: "/linkedin.png",
-    link: "https://www.linkedin.com/in/yell-min-thu-1298a0232/",
-  },
 ];
 
 export const Frontend_skill = [
