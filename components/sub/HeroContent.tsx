@@ -37,7 +37,7 @@ const HeroContent = () => {
               {" "}
               Yell Min Thu{" "}
             </h2>
-            Having good Project Exprience
+            Proven project experience with a strong ability to learn quickly.
           </span>
         </motion.div>
 
@@ -45,14 +45,14 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m an IT Student At &nbsp;&nbsp;
+          I&apos;s an IT Student At &nbsp;&nbsp;
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            LithanEduclaas
+            Lithan Singapore, but now,
           </span>
-          &nbsp;&nbsp; learning Higher National Diploma in Computing with
+          &nbsp;&nbsp; I have successfully Completedly Higher National Diploma in Computing (software development and Testing) with Overall Merits. Having 
           Experience in &nbsp;&nbsp;
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            Frontend & Backend Development ,
+            Data developer - data retrieve and processing, Builting Business Automations, Frontend & Backend Development ,
           </span>
           &nbsp;&nbsp; including &nbsp;&nbsp;
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
