@@ -177,6 +177,14 @@ export const language_skill = [
 ];
 
 export const experiences = [
+    {
+    devtype: "Data Developer Role",
+    backend: "",
+    title: "Experiences as data developer role",
+    text: "I had joined as data developer role recently, in which I have to retrieve the specific data baed on the requirements from data base, have to process the data that is able to do for data analysis then send back the processed data to the stakeholders ",
+    src: "https://rivers.chaitin.cn/product/cpttqc90lne7evh7tnd0",
+    link: "",
+  },
   {
     devtype: "UI ",
     frontend: "Figma",
