@@ -181,10 +181,19 @@ export const experiences = [
     devtype: "Ai RAG app",
     backend: "Python, LangChain, FAISS, FastAPI",
     title: "Enterprise RAG System with AI",
-    text: "I had joined as data developer role recently, in which I have to retrieve the specific data baed on the requirements from data base, have to process the data that is able to do for data analysis then send back the processed data to the stakeholders ",
+    text: "An Enterprise AI Knowledge Base (RAG) is a system designed to give employees or customers instant, accurate answers based exclusively on a company’s private data.",
     src: "/Ai_Rag.jpg",
     link: "https://github.com/JunHaoyell/rag-ai-frontend",
     demolink: "https://rag-ai-frontend-two.vercel.app/",
+    
+  },
+  {
+    devtype: "Ai RAG app (Backend Codes)",
+    backend: "Python, LangChain, FAISS, FastAPI",
+    title: "Enterprise RAG System with AI",
+    text: "An Enterprise AI Knowledge Base (RAG) is a system designed to give employees or customers instant, accurate answers based exclusively on a company’s private data.",
+    src: "/Ai_Rag.jpg",
+    link: "https://github.com/JunHaoyell/Rag_ai_backend",
     
   },
     {
@@ -192,7 +201,7 @@ export const experiences = [
     backend: "",
     title: "Experiences as data developer role",
     text: "I had joined as data developer role recently, in which I have to retrieve the specific data baed on the requirements from data base, have to process the data that is able to do for data analysis then send back the processed data to the stakeholders ",
-    src: "https://rivers-collie.oss-accelerate.aliyuncs.com/cyber-wiki-prod/image/fbfd633c52991febebaddbd982470b36.png",
+    src: "",
     link: "https://github.com/JunHaoyell/Rag_ai_backend",
 
   },
