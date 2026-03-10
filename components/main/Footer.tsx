@@ -26,14 +26,14 @@ const Footer = () => {
               <span className="text-[15px] ml-[6px]">Contact Phone Number</span>{" "}
               :
               <a href="mailto:fdse0322-020@learning.educlaas.com">
-                &nbsp;&nbsp; +959 &nbsp;&nbsp; 762346978{" "}
+                &nbsp;&nbsp; +66 &nbsp;&nbsp; 858473417{" "}
               </a>
             </div>
           </div>
         </div>
 
         <div className="mb-[20px] text-[15px] text-center">
-          &copy; Yell's Portfolio 2024 Inc. All rights reserved
+          &copy; Yell's Portfolio 2026 Inc. All rights reserved
         </div>
       </div>
     </div>
