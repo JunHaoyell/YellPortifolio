@@ -80,7 +80,7 @@ const HeroContent = () => {
         className="w-full h-full flex justify-center items-center"
       >
         <Image
-          src="/jun_hao.jpg"
+          src="/jun_hao1.jpg"
           alt="work icons"
           height={550}
           width={650}
