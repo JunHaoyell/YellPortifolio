@@ -182,7 +182,7 @@ export const experiences = [
     backend: "Python, LangChain, FAISS, FastAPI",
     title: "Enterprise RAG System with AI",
     text: "I had joined as data developer role recently, in which I have to retrieve the specific data baed on the requirements from data base, have to process the data that is able to do for data analysis then send back the processed data to the stakeholders ",
-    src: "",
+    src: "/Ai_Rag.jpg",
     link: "https://github.com/JunHaoyell/rag-ai-frontend",
     demolink: "https://rag-ai-frontend-two.vercel.app/",
     
