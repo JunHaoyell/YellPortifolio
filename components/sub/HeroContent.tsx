@@ -47,10 +47,13 @@ const HeroContent = () => {
         >
           I&apos;s an IT Student At &nbsp;&nbsp;
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            Lithan Singapore, but now,
+            Lithan Singapore
           </span>
-          &nbsp;&nbsp; I have successfully Completedly Higher National Diploma in Computing (software development and Testing) with Overall Merits. Having 
-          Experience in &nbsp;&nbsp;
+          , but now,&nbsp;&nbsp; I have successfully Completed the 
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+          Higher National Diploma in Computing (software development and Testing) with Overall Merits. 
+          </span>
+          Have Experience in &nbsp;&nbsp;
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
             Data developer - data retrieve and processing, Builting Business Automations, Frontend & Backend Development ,
           </span>
@@ -77,7 +80,7 @@ const HeroContent = () => {
         className="w-full h-full flex justify-center items-center"
       >
         <Image
-          src="/YellMinPf-removebg.png"
+          src="/jun_hao.jpg"
           alt="work icons"
           height={550}
           width={650}
