@@ -179,7 +179,7 @@ export const language_skill = [
 export const experiences = [
       {
     devtype: "Ai RAG app",
-    backend: "Python, LangChain, FAISS, FastAPI",
+    frontend: "Next.js, Typescript",
     title: "Enterprise RAG System with AI",
     text: "An Enterprise AI Knowledge Base (RAG) is a system designed to give employees or customers instant, accurate answers based exclusively on a company’s private data.",
     src: "/Ai_Rag.jpg",
@@ -198,10 +198,10 @@ export const experiences = [
   },
     {
     devtype: "Data Developer Role",
-    backend: "",
+    backend: "Python, Mysql",
     title: "Experiences as data developer role",
     text: "I had joined as data developer role recently, in which I have to retrieve the specific data baed on the requirements from data base, have to process the data that is able to do for data analysis then send back the processed data to the stakeholders ",
-    src: "",
+    src: "/jump_server.jpg",
     link: "https://github.com/JunHaoyell/Rag_ai_backend",
 
   },
